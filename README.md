@@ -1,6 +1,6 @@
 # tox-env-benchmark
 
-### Benchmark tox environment provisioning across Git commits
+## Benchmark tox environment provisioning across Git commits
 
 - Copyright (c) 2026 [Corey Goldberg](https://github.com/cgoldberg)
 - License:

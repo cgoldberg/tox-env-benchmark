@@ -87,7 +87,7 @@ echo
 echo "Preparing repositories..."
 setup_repos
 echo
-echo "Repo: [REDACTED]" #${REPO_URL}"
+echo "Repo: ${REPO_URL}"
 echo "Branch: ${BRANCH}"
 echo "Old commit: ${OLD_COMMIT}"
 echo "New commit: ${NEW_COMMIT}"
